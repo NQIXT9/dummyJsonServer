@@ -1,28 +1,28 @@
 {
   "menu": [
     {
-    "ID": 1,
+    "id": 1,
     "name": "Miso leves",
     "details": "Tradicionális japán leves algával, japán selyemtofuval és újhagymával",
     "type": "Leves",
     "price": 980
     },
     {
-    "ID": 2,
+    "id": 2,
     "name": "Niwashi leves",
     "details": "Japán zöldségleves üvegtésztával és csirkemellel",
     "type": "Leves",
     "price": 1980
     },
     {
-    "ID": 3,
+    "id": 3,
     "name": "Pikáns miso leves lazaccal, rákkal",
     "details": "Lazac, rák, shiitake gomba, japán selyemtofu, koriander, újhagyma és alga",
     "type": "Leves",
     "price": 2680
     },
     {
-    "ID": 4,
+    "id": 4,
     "name": "Ramen bundás csirkecombbal",
     "details": "bébispenót, mungóbabcsíra, újhagyma, felezett lágytojás, lapos udon tészta, japán húsleves, bundázott csirkecombbal",
     "type": "Leves",
