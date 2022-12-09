@@ -17,9 +17,16 @@
     {
     "ID": 3,
     "name": "Pikáns miso leves lazaccal, rákkal",
-    "details": "lazac, rák, shiitake gomba, japán selyemtofu, koriander, újhagyma és alga",
+    "details": "Lazac, rák, shiitake gomba, japán selyemtofu, koriander, újhagyma és alga",
     "type": "Leves",
     "price": 2680
+    },
+    {
+    "ID": 4,
+    "name": "Ramen bundás csirkecombbal",
+    "details": "bébispenót, mungóbabcsíra, újhagyma, felezett lágytojás, lapos udon tészta, japán húsleves, bundázott csirkecombbal",
+    "type": "Leves",
+    "price": 3080
     }
   ],
   "profile": {
