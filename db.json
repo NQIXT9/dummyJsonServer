@@ -14,6 +14,13 @@
     "type": "Leves",
     "price": 1980
     }
+    {
+    "ID": 3,
+    "name": "Pikáns miso leves lazaccal, rákkal",
+    "details": "lazac, rák, shiitake gomba, japán selyemtofu, koriander, újhagyma és alga",
+    "type": "Leves",
+    "price": 2680
+    }
   ],
   "profile": {
     "name": "typicode"
