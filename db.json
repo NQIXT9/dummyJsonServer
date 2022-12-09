@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "cimek": [
     {
-      "id": 1,
-      "title": "hello"
+    "ID": 1,
+    "iranyitoszam": "3580",
+    "varos": "Tiszaújváros",
+    "utca": "Rózsa",
+    "hazszam": "30",
+    "menuID": "1 2",
+    "teljesitve": 1
     }
   ],
   "profile": {
