@@ -1,16 +1,22 @@
 {
   "cimek": [
     {
-      "id": 1,
-      "keresztNev": "Példa",
-      "vezetekNev":"Béla",
-      "fizetes":200000
+    "ID": 1,
+    "iranyitoszam": "3580",
+    "varos": "Tiszaújváros",
+    "utca": "Rózsa",
+    "hazszam": "30",
+    "menuID": "1 2",
+    "teljesitve": 1
     },
-     {
-      "id":2,
-      "keresztNev": "Tibor",
-      "vezetekNev":"Nagy",
-      "fizetes":182500
+    {
+    "ID": 2,
+    "iranyitoszam": "3580",
+    "varos": "Tiszaújváros",
+    "utca": "Rózsa",
+    "hazszam": "30",
+    "menuID": "1 3",
+    "teljesitve": 1
     }
   ],
   "profile": {
