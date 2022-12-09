@@ -1,22 +1,18 @@
 {
-  "cimList": [
+  "menu": [
     {
     "ID": 1,
-    "iranyitoszam": "3580",
-    "varos": "Tiszaújváros",
-    "utca": "Rózsa",
-    "hazszam": "30",
-    "menuID": "1 2",
-    "teljesitve": 1
+    "name": "Miso leves",
+    "details": "Tradicionális japán leves algával, japán selyemtofuval és újhagymával",
+    "type": "Leves",
+    "price": 980
     },
     {
     "ID": 2,
-    "iranyitoszam": "3580",
-    "varos": "Tiszaújváros",
-    "utca": "Rózsa",
-    "hazszam": "30",
-    "menuID": "1 3",
-    "teljesitve": 1
+    "name": "Niwashi leves",
+    "details": "Japán zöldségleves üvegtésztával és csirkemellel",
+    "type": "Leves",
+    "price": 1980
     }
   ],
   "profile": {
