@@ -27,6 +27,90 @@
     "details": "bébispenót, mungóbabcsíra, újhagyma, felezett lágytojás, lapos udon tészta, japán húsleves, bundázott csirkecombbal",
     "type": "Leves",
     "price": 3080
+    },
+    {
+    "id": 5,
+    "name": "Ramen bundázott rákkal",
+    "details": "bébispenót, mungóbabcsíra, újhagyma, felezett lágytojás, lapos udon tészta, japán húsleves, bundázott rákkal",
+    "type": "Leves",
+    "price": 3380
+    },
+    {
+    "id": 6,
+    "name": "Ramen főtt császárhússal",
+    "details": "bébispenót, mungóbabcsíra, újhagyma, felezett lágytojás, lapos udon tészta, japán húsleves, császárhús",
+    "type": "Leves",
+    "price": 3080
+    },
+    {
+    "id": 7,
+    "name": "Thai laksa leves csirkével",
+    "details": "Tradicionális thai leves zöld curryvel, zöldségekkel, brokkolival, friss korianderrel, chili pehellyel és csirkével",
+    "type": "Leves",
+    "price": 1980
+    },
+    {
+    "id": 8,
+    "name": "Thai laksa leves rákkal",
+    "details": "Tradicionális thai leves zöld curryvel, zöldségekkel, brokkolival, friss korianderrel, chili pehellyel és rákkal",
+    "type": "Leves",
+    "price": 2380
+    },
+    {
+    "id": 9,
+    "name": "Chirashizusi",
+    "details": "Sushi rizs, lazac, vöröstonhal, avokádó, shiitake gomba, surimi rák, japán omlett, friss saláta, tigrisrák, retekcsíra, fekete és fehér szezámmag",
+    "type": "Főétel",
+    "price": 4880
+    },
+    {
+    "id": 10,
+    "name": "Lazac steak don",
+    "details": "Tojásos rizs, lazac, pácolt gyömbér, friss saláta, újhagyma, hónapos retek, lótuszgyökér, teriyaki szósz, fehér szezámmag",
+    "type": "Főétel",
+    "price": 4480
+    },
+    {
+    "id": 11,
+    "name": "Sake teriyaki don",
+    "details": "Sushi rizs, lazac, avokádó, fejtett edamame bab, rózsaszín pácolt gyömbér, teriyaki szósz, teriyaki sajtkrém, uborka, fekete szezámmag",
+    "type": "Főétel",
+    "price": 4480
+    },
+    {
+    "id": 12,
+    "name": "Ázsiai bbq oldalas pirított tojásos rizzsel",
+    "details": "Ázsia ízei csak rád várnak a barbecue oldalasban, a pirított tojásos rizs remek kísérő a gasztrokalandban!",
+    "type": "Főétel",
+    "price": 3880
+    },
+    {
+    "id": 13,
+    "name": "Bundázott surimi rákolló választható öntettel",
+    "details": "Remek és roppanós. Kérsz még belőle?",
+    "type": "Előétel",
+    "price": 2780
+    },
+    {
+    "id": 14,
+    "name": "Midori - Vegán válogatás",
+    "details": "4 Midori tekercs, 2 pirított répa maki, 2 cukkini maki, 2 füstölt tofu, cukorborsó maki, 1 shiitake gomba nigiri, 1 avokádó nigiri",
+    "type": "Főétel",
+    "price": 2680
+    },
+    {
+    "id": 15,
+    "name": "Sankakkei válogatás",
+    "details": "4 db tonhalkrémes sushi szendvics, 4 db lazackrémes sushi szendvics",
+    "type": "Főétel",
+    "price": 3880
+    },
+    {
+    "id": 16,
+    "name": "Wasabi box",
+    "details": "4 Wasabi tekercs (lazac, vöröstonhal, lazackaviár, avokádó, római saláta, teriyakis sajtkrém), 4 Wasabi nigiri (lazac, avokádó), julienne káposzta, edamame bab",
+    "type": "Főétel",
+    "price": 6280
     }
   ],
   "profile": {
